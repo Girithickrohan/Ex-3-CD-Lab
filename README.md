@@ -67,6 +67,6 @@ int main() {
 }
 ```
 # OUTPUT
-![img]()
+![img](https://github.com/Girithickrohan/Ex-3-CD-Lab/blob/main/Screenshot%202025-09-19%20194818.png)
 # RESULT
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
